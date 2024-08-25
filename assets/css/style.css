@@ -1,0 +1,13 @@
+body {
+    font-family: 'Space Grotesk', sans-serif;
+    background-color: #F5F8FB;
+}
+
+header {
+    background-color: #F5F8FB;
+}
+
+.btn-primary {
+    display: inline-block;
+    background-color: #fff59f;
+}
