@@ -9,5 +9,13 @@ header {
 
 .btn-primary {
     display: inline-block;
-    background-color: #F1F333;
+    background-color: #A6FAFF;
+}
+
+.floating-block {
+    position: absolute;
+    top:-40px;
+    left: 50%;
+    z-index: -1;
+    opacity: 0.33;
 }
