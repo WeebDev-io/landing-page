@@ -16,6 +16,7 @@ header {
     position: absolute;
     top:-40px;
     left: 50%;
+    margin-left: 52px;
     z-index: -1;
     opacity: 0.33;
     transition: 0.5s;
